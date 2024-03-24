@@ -48,14 +48,6 @@
         "async": false
       }
     },
-    "(app-client)/./app/components/Task.tsx": {
-      "*": {
-        "id": "(sc_client)/./app/components/Task.tsx",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
     "(app-client)/./app/components/Sidebar.tsx": {
       "*": {
         "id": "(sc_client)/./app/components/Sidebar.tsx",
@@ -149,14 +141,6 @@
     },
     "/home/xubuntuy/repos/todolist/app/components/AddTask.tsx": {
       "id": "(app-client)/./app/components/AddTask.tsx",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "/home/xubuntuy/repos/todolist/app/components/Task.tsx": {
-      "id": "(app-client)/./app/components/Task.tsx",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"

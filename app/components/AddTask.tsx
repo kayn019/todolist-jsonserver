@@ -29,7 +29,7 @@ function AddTask(){
     <div>
       <button
         onClick={() => setModalOpen(true)}
-        className='btn btn-primary w-full bg-amber-600 border-amber-600 hover:bg-amber-700 hover:border-amber-700 text-white'
+        className='btn btn-primary w-full bg-green-600 border-green-600 hover:bg-green-700 hover:border-green-700 text-white'
       >
         Add new task <AiOutlinePlus className='ml-2' size={18} />{' '}
       </button>
